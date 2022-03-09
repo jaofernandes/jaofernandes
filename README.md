@@ -4,19 +4,24 @@
   
   <br></br>
   
-  <h1 align="center"> 😺 Sobre-mim </h1>
+  <h2 align="center"> 😺 Sobre-mim </h1>
 Tenho 20 anos, apaixonado por códigos e resolução de problemas sempre me vi ajudando pessoas a resolverem seus problemas. Tive o meu primeiro contato com a programação enquanto novo, através da linguagem pawn. Tendo já um conhecimento em editores de imagem fiz alguns trabalhos freelas atuando como designer, foi quando decidi juntar o util ao agradável e aprender programação de verdade. 😄
 <br></br>
 
 - 📚 Estudando Javascript.
 - 🔎 Em busca de novas oportunidades.
 
-<h1 align="center"> 🛠️ Conhecimentos </h1>
+<h2 align="center"> 💡 Conhecimentos </h1>
 <div align="center"><br>
   <img align="center" alt="Js" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="HTML" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="SASS" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
+  
+  <h3 align="center">Outros </h1>
+  
+  <img align="center" alt="photoshop" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" />
+  <img align="center" alt="illustrator" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" />
 </div>
 
 <br></br>
