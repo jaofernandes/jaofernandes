@@ -30,6 +30,7 @@ Tenho 20 anos, apaixonado por códigos e resolução de problemas sempre me vi a
 <div align="center">
   <a href="https://github.com/jaofernandes">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jaofernandes&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
+    <br>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaofernandes&layout=compact&langs_count=6&theme=merko"/>
 </div>
 
