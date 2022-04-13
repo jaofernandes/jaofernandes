@@ -5,10 +5,10 @@
   <br></br>
   
   <h2 align="center"> 😺 Sobre-mim </h2>
-Tenho 20 anos, apaixonado por códigos e resolução de problemas sempre me vi ajudando pessoas a resolverem seus problemas. Tive o meu primeiro contato com a programação enquanto novo, através da linguagem pawn. Tendo já um conhecimento em editores de imagem fiz alguns trabalhos freelas atuando como designer, foi quando decidi juntar o util ao agradável e aprender programação de verdade. 😄
+Tenho 21 anos, apaixonado por tecnologia desde criança, tive o meu primeiro contato com a programação aos 14 anos através da linguagem pawn, na qual não me aprofundei. Cansado e deprimido dá área em que atuo resolvi mergulhar de cabeça na área de desenvolvimento estudando pela b7web e consumindo conteúdos diários fora da plataforma. 😄
 <br></br>
 
-- 📚 Estudando Javascript.
+- 📚 Estudando React.
 - 🔎 Em busca de novas oportunidades.
 
 <h2 align="center"> 💡 Conhecimentos </h2>
