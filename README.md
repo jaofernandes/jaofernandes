@@ -5,10 +5,10 @@
   <br></br>
   
   <h2 align="center"> 😺 Sobre-mim </h2>
-Tenho 21 anos, apaixonado por tecnologia e resolução de problemas, tive o meu primeiro contato com a programação aos 14 anos através da linguagem pawn, na qual não me aprofundei, usando somente por hobby. Cansado e deprimido dá área em que atuo resolvi mergulhar de cabeça na área de desenvolvimento estudando pela b7web e consumindo conteúdos diários fora da plataforma.  😄
+Tenho 24 anos, apaixonado por tecnologia e resolução de problemas, tive o meu primeiro contato com a programação aos 14 anos através da linguagem pawn, na qual não me aprofundei, usando somente por hobby. Cansado e deprimido dá área em que atuo resolvi mergulhar de cabeça na área, atualmente estudo Cybersec.
 <br></br>
 
-- 📚 Estudando React.
+- 📚 Estudando Cybersec.
 - 🔎 Em busca de novas oportunidades.
 
 <h2 align="center"> 💡 Conhecimentos </h2>
@@ -16,7 +16,6 @@ Tenho 21 anos, apaixonado por tecnologia e resolução de problemas, tive o meu 
   <img align="center" alt="Js" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="HTML" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="SASS" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
   
   <h3 align="center">Outros </h3>
   
